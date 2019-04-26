@@ -6,3 +6,4 @@ b = randn(10^8);
 println(s)
 
 println("Hello, World !")
+println("Hello, Jupiter and Venus !")
