@@ -5,4 +5,4 @@ b = randn(10^8);
 @time s=dot(a,b)
 println(s)
 
-println("Pieter")
+println("Hello, World !")
